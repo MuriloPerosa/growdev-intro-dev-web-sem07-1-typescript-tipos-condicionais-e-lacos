@@ -9,7 +9,7 @@ Para instalar esse projeto e rodar em seu ambiente local, execute as seguintes e
 Para clonar o repositório, navegue até a pasta desejada execute o seguinte comando no terminal:
 
 ```ssh
-... add
+git clone https://github.com/MuriloPerosa/growdev-intro-dev-web-sem07-1-typescript-tipos-condicionais-e-lacos.git
 ```
 
 ### 2 - Instale as dependências do Node
@@ -28,4 +28,4 @@ Para transpilar  os arquivos TypeScript, dentro da pasta do projeto execute o se
 tsc
 ```
 
-### 🚀🚀🚀 Pronto o projeto já está pronto para uso! Bons estudos! 🚀🚀🚀
+### 🚀🚀🚀 O projeto já está pronto para uso! Bons estudos! 🚀🚀🚀
